@@ -24,7 +24,7 @@ const BlogPost = (props) => {
     
     useEffect(() => {
         const slug = props.match.params.slug;
-        const post = blogPost.data.find(post => post.slug == slug);
+        const post = blogPost.data.find(post => post.slug === slug);
         setPost(post);
         setSlug(slug)
     }, [post, props.match.params.slug]);

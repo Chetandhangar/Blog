@@ -14,9 +14,6 @@ const Layout = (props) => {
         {props.children}
         <Sidebar />
     </div>
-    <div>
-        <h1>THIS IS FOOTER FOR ALL PAGES</h1>
-    </div>
       </React.Fragment>
     
    )

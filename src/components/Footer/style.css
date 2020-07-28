@@ -1,0 +1,9 @@
+.footer{
+    border: 0px 10px 10px 10px solid whitesmoke;
+    display: flex;
+    background-color: aliceblue;
+}
+.footer-nav{
+    display: flex;
+    flex-direction: column-reverse;
+}

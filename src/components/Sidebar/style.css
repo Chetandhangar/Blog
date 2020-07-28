@@ -10,6 +10,12 @@
     letter-spacing: 2px;
     color: #333 ;
 }
+.cardBody{
+    display: flex;
+    margin: 20px 0px;
+    justify-content: center;
+
+}
 
 
 .profileImageContainer{
