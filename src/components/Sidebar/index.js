@@ -31,7 +31,7 @@ const Sidebar = (props) => {
                     <span>About Us</span>
                 </div>
                 <div className="profileImageContainer">
-                    <img src="https://instagram.fnag1-2.fna.fbcdn.net/v/t51.2885-19/s150x150/102293229_602841493668536_6352726465050208883_n.jpg?_nc_ht=instagram.fnag1-2.fna.fbcdn.net&_nc_ohc=Ix1OJMc22UIAX9se2xY&oh=ca51688e10491e6e9fc825411b863c0d&oe=5F506264" alt="Progile Image" />
+                    <img src="profile.jpg" alt="Progile Image" />
                 </div>
                 <div className="cardBody">
                     <p className="personalBio">My name is Chetan Dhangar I am a software developer specialization in Front end developement....:)</p>
