@@ -31,7 +31,7 @@ const Sidebar = (props) => {
                     <span>About Us</span>
                 </div>
                 <div className="profileImageContainer">
-                    <img src="" alt="Progile Image" />
+                    <img src="https://instagram.fnag1-2.fna.fbcdn.net/v/t51.2885-19/s150x150/102293229_602841493668536_6352726465050208883_n.jpg?_nc_ht=instagram.fnag1-2.fna.fbcdn.net&_nc_ohc=Ix1OJMc22UIAX9se2xY&oh=ca51688e10491e6e9fc825411b863c0d&oe=5F506264" alt="Progile Image" />
                 </div>
                 <div className="cardBody">
                     <p className="personalBio">My name is Chetan Dhangar I am a software developer specialization in Front end developement....:)</p>
@@ -41,11 +41,6 @@ const Sidebar = (props) => {
             <Card style={{ marginBottom: '20px', padding: '20px', boxSizing: 'border-box' }}>
                 <div className="cardHeader">
                     <span>Social Network</span>
-                </div>
-                <div className="cardBody">
-                    <button>Email</button>
-                    <button>Instagram</button>
-                    <button>FaceBook</button>
                 </div>
             </Card>
 
